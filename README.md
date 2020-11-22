@@ -3,7 +3,7 @@
 
 Pirooz Wallace | Hector Garcia | Eli Derjabin
 
-Github Repo:
+Github Repo: https://github.com/derjabineli/wknd
 
 Github Pages: 
 
